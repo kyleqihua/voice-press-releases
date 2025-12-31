@@ -1,28 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Voice Press Updates</title>
         <link>https://github.com/kyleqihua/voice-press-releases</link>
         <description>Voice Press app updates</description>
         <language>en</language>
 
-        <item>
-            <title>Version 0.0.1</title>
-            <pubDate>Wed, 31 Dec 2025 21:05:09 +0800</pubDate>
-            <sparkle:version>0.0.1</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>What's New in 0.0.1</h2>
-                <ul>
-                    <li>Initial release</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.1/VoicePress-0.0.1.dmg"
-                sparkle:edSignature="Ae3V5C20cmsQKgEBAWcG2fhRjgrXrUy6vBqeyInUXaTehojZB/qgMebNdLzjT0zrVdHxK/Jjk6fZZma5rPIMCA=="
-                length="1444062"
-                type="application/octet-stream" />
-        </item>
+        
 
-    </channel>
+    <item><title>Version 0.0.2</title><pubDate>Wed, 31 Dec 2025 21:51:25 +0800</pubDate><sparkle:version>0.0.2</sparkle:version><sparkle:shortVersionString>0.0.2</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.2&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Bug fixes and improvements&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.2/VoicePress-0.0.2.dmg" sparkle:edSignature="SlZesriWI89MbJZUNcsOJGusUOmuUwpdwmMddGZ5GzLTTY0PR/qLpK5jdTYqiU38WScFWJlYrURG7o1jngyyDg==" length="1503688" type="application/octet-stream" /></item></channel>
 </rss>
