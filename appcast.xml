@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Voice Press Updates</title>
+        <link>https://github.com/kyleqihua/voice-press-releases</link>
+        <description>Voice Press app updates</description>
+        <language>en</language>
+
+        <!-- Latest version will be added here by release script -->
+
+    </channel>
+</rss>
