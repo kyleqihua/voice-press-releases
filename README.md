@@ -1,6 +1,6 @@
 # Voice Press Releases
 
-This repository hosts releases for [Voice Press](https://github.com/kyleqihua/p4_voice2word), a macOS voice-to-text transcription app.
+This repository hosts releases for **Voice Press**, a macOS voice-to-text transcription app.
 
 ## Download
 
