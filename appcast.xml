@@ -49,5 +49,10 @@
                     &lt;li&gt;Improved release script with automatic version management&lt;/li&gt;
 &lt;li&gt;Added support for detailed changelog in updates&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.9/VoicePress-0.0.9.dmg" sparkle:edSignature="Uo1VGzNjNshdJlL9WW4hmp1A4X5PYCrN8ckRzGm44xWRWx+JmbVdwvCWd5M9XRZlO9IeDJ9tpg78jYjQCPdXBQ==" length="2178058" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.9/VoicePress-0.0.9.dmg" sparkle:edSignature="Uo1VGzNjNshdJlL9WW4hmp1A4X5PYCrN8ckRzGm44xWRWx+JmbVdwvCWd5M9XRZlO9IeDJ9tpg78jYjQCPdXBQ==" length="2178058" type="application/octet-stream" /></item><item><title>Version 0.0.10</title><pubDate>Sat, 03 Jan 2026 01:11:04 +0800</pubDate><sparkle:version>0.0.10</sparkle:version><sparkle:shortVersionString>0.0.10</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.10&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Changed default hotkey from Option+V to Option+Space (industry standard)&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.10/VoicePress-0.0.10.dmg" sparkle:edSignature="zauUcdXm1Phu4y/LNYxNek9nEHFn5+MwLTEGWKS67P3QGZycUHRSVet4sFRyts8gXGumrL8wsCdtDZH+gihoBA==" length="2175638" type="application/octet-stream" /></item></channel>
 </rss>
