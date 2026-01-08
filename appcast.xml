@@ -64,5 +64,10 @@
                 &lt;ul&gt;
                     &lt;li&gt;Fix hallucination detection for empty/silent audio recordings&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.12/VoicePress-0.0.12.dmg" sparkle:edSignature="5oz7XYzjWUK5edBxI2GNw5kojESE4rhDAcljV6Qm1yNuSpKMvQO8guO23KTSkRDDQ9WwLUk7T7CcK2tjq3fUDg==" length="2175691" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.12/VoicePress-0.0.12.dmg" sparkle:edSignature="5oz7XYzjWUK5edBxI2GNw5kojESE4rhDAcljV6Qm1yNuSpKMvQO8guO23KTSkRDDQ9WwLUk7T7CcK2tjq3fUDg==" length="2175691" type="application/octet-stream" /></item><item><title>Version 0.0.13</title><pubDate>Thu, 08 Jan 2026 09:37:38 +0800</pubDate><sparkle:version>0.0.13</sparkle:version><sparkle:shortVersionString>0.0.13</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.13&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Fix hallucination detection for empty/silent audio recordings&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.13/VoicePress-0.0.13.dmg" sparkle:edSignature="1xoH09kFZJJe1tNuirJyE2wZKBoVau7TT30mIzMZhuWUqV42oXlTWf6cvx2QrURLSZwUvyunAo8U2dQs30GhBA==" length="2175751" type="application/octet-stream" /></item></channel>
 </rss>
