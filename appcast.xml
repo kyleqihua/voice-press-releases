@@ -69,5 +69,14 @@
                 &lt;ul&gt;
                     &lt;li&gt;Fix hallucination detection for empty/silent audio recordings&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.13/VoicePress-0.0.13.dmg" sparkle:edSignature="1xoH09kFZJJe1tNuirJyE2wZKBoVau7TT30mIzMZhuWUqV42oXlTWf6cvx2QrURLSZwUvyunAo8U2dQs30GhBA==" length="2175751" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.13/VoicePress-0.0.13.dmg" sparkle:edSignature="1xoH09kFZJJe1tNuirJyE2wZKBoVau7TT30mIzMZhuWUqV42oXlTWf6cvx2QrURLSZwUvyunAo8U2dQs30GhBA==" length="2175751" type="application/octet-stream" /></item><item><title>Version 0.0.15</title><pubDate>Sun, 11 Jan 2026 00:43:57 +0800</pubDate><sparkle:version>0.0.15</sparkle:version><sparkle:shortVersionString>0.0.15</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.15&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Add InjectionIII hot reload support for faster development&lt;/li&gt;
+&lt;li&gt;Add DEBUG/RELEASE mode switching for development convenience&lt;/li&gt;
+&lt;li&gt;Refactor to menu bar app with StatusBarController integration&lt;/li&gt;
+&lt;li&gt;Add AudioDeviceManager for smart audio input selection&lt;/li&gt;
+&lt;li&gt;Multiple code refactors for better organization and clarity&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.15/VoicePress-0.0.15.dmg" sparkle:edSignature="FEzG6VxRVHfWVHUXVUlQdZmO0gZIS6IzRexU8uGAbRXYbGYHmkVb3NX9c//awMBVYoSLLwlaW9iF7kS4HFrdDg==" length="2211501" type="application/octet-stream" /></item></channel>
 </rss>
