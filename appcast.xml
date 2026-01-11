@@ -133,5 +133,10 @@
 &lt;li&gt;**Onboarding Welcome Screen**: App icon now shows "⌥V" instead of blank square&lt;/li&gt;
 &lt;li&gt;  - Helps users immediately understand the app's core interaction&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.22/VoicePress-0.0.22.dmg" sparkle:edSignature="v2Xi7LtXL5KcsY4nnq5DwebtrjeqQjuv6TfkDWGIoZp9j/tiSPhTquAfUq6QXqu7ioiNhhffzFUQ72i8PCraCQ==" length="2993313" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.22/VoicePress-0.0.22.dmg" sparkle:edSignature="v2Xi7LtXL5KcsY4nnq5DwebtrjeqQjuv6TfkDWGIoZp9j/tiSPhTquAfUq6QXqu7ioiNhhffzFUQ72i8PCraCQ==" length="2993313" type="application/octet-stream" /></item><item><title>Version 0.0.23</title><pubDate>Mon, 12 Jan 2026 00:41:31 +0800</pubDate><sparkle:version>0.0.23</sparkle:version><sparkle:shortVersionString>0.0.23</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.23&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Bug fixes and improvements&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.23/VoicePress-0.0.23.dmg" sparkle:edSignature="c5t6FUfRABSMxW7g13rxmKBNky4zP/y/CX1JAmXEhJnM3P943kwI9FZclgvk8jryRsjs6xVFQt+WFGtC3kuyBw==" length="3002868" type="application/octet-stream" /></item></channel>
 </rss>
