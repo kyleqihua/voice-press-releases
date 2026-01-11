@@ -78,5 +78,15 @@
 &lt;li&gt;Add AudioDeviceManager for smart audio input selection&lt;/li&gt;
 &lt;li&gt;Multiple code refactors for better organization and clarity&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.15/VoicePress-0.0.15.dmg" sparkle:edSignature="FEzG6VxRVHfWVHUXVUlQdZmO0gZIS6IzRexU8uGAbRXYbGYHmkVb3NX9c//awMBVYoSLLwlaW9iF7kS4HFrdDg==" length="2211501" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.15/VoicePress-0.0.15.dmg" sparkle:edSignature="FEzG6VxRVHfWVHUXVUlQdZmO0gZIS6IzRexU8uGAbRXYbGYHmkVb3NX9c//awMBVYoSLLwlaW9iF7kS4HFrdDg==" length="2211501" type="application/octet-stream" /></item><item><title>Version 0.0.17</title><pubDate>Sun, 11 Jan 2026 19:18:54 +0800</pubDate><sparkle:version>0.0.17</sparkle:version><sparkle:shortVersionString>0.0.17</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.17&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Push to Talk support: hold hotkey to record, release to stop&lt;/li&gt;
+&lt;li&gt;Single key triggers: Fn, Right Option, or Right Command&lt;/li&gt;
+&lt;li&gt;New guided onboarding with "Try It Out" step&lt;/li&gt;
+&lt;li&gt;Menu bar icon shows current hotkey with status colors&lt;/li&gt;
+&lt;li&gt;Improved settings panel UI for hotkey configuration&lt;/li&gt;
+&lt;li&gt;Reduced accidental PTT triggers (1.2s threshold)&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.17/VoicePress-0.0.17.dmg" sparkle:edSignature="rBs1/0TCvQE1hVq83r9t8lk/CYHMLIXsikPydkNV4DAciaqe7UBDA3HLFJ1LE/S7rXnP6kecnYUQnAm897D4DA==" length="2590906" type="application/octet-stream" /></item></channel>
 </rss>
