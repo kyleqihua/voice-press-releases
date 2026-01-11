@@ -123,5 +123,15 @@
 &lt;li&gt;Refactored SingleKeyPicker to use Menu with custom styled button for better control over appearance&lt;/li&gt;
 &lt;li&gt;Used clipShape for cleaner rounded corner rendering&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.21/VoicePress-0.0.21.dmg" sparkle:edSignature="yhPGOu4w4xbm2yn2o649Pu56Tjk6gHuGCt0sdtRMDehiHmXSKGo6GIC1zUF4vZBFwonvHQffn58PznsLvhX2AQ==" length="2993194" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.21/VoicePress-0.0.21.dmg" sparkle:edSignature="yhPGOu4w4xbm2yn2o649Pu56Tjk6gHuGCt0sdtRMDehiHmXSKGo6GIC1zUF4vZBFwonvHQffn58PznsLvhX2AQ==" length="2993194" type="application/octet-stream" /></item><item><title>Version 0.0.22</title><pubDate>Sun, 11 Jan 2026 22:35:31 +0800</pubDate><sparkle:version>0.0.22</sparkle:version><sparkle:shortVersionString>0.0.22</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.22&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;## Bug Fixes&lt;/li&gt;
+&lt;li&gt;**First Launch Icon Fix**: Dock icon and menu bar icon now correctly display "⌥V" on first launch&lt;/li&gt;
+&lt;li&gt;  - Previously showed blank icon until user explicitly set a shortcut&lt;/li&gt;
+&lt;li&gt;  - Now uses default shortcut (⌥V) when no custom shortcut is saved&lt;/li&gt;
+&lt;li&gt;**Onboarding Welcome Screen**: App icon now shows "⌥V" instead of blank square&lt;/li&gt;
+&lt;li&gt;  - Helps users immediately understand the app's core interaction&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://github.com/kyleqihua/voice-press-releases/releases/download/v0.0.22/VoicePress-0.0.22.dmg" sparkle:edSignature="v2Xi7LtXL5KcsY4nnq5DwebtrjeqQjuv6TfkDWGIoZp9j/tiSPhTquAfUq6QXqu7ioiNhhffzFUQ72i8PCraCQ==" length="2993313" type="application/octet-stream" /></item></channel>
 </rss>
