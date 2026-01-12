@@ -154,5 +154,10 @@
                     &lt;li&gt;将 Voice Interface.app 拖入 Applications&lt;/li&gt;
                 &lt;/ol&gt;
                 &lt;p&gt;您的设置和 API Key 需要重新配置。&lt;/p&gt;
-            </description><enclosure url="https://releases.voiceinterface.app/VoiceInterface-0.0.24.dmg" sparkle:edSignature="1IfiklDrqCQlH8P5CCwZS+WFM6d/6D26VqH5BPE0tEmdAltEtUfdtedy7zNz5VUGBvjsuKOAvM/cG58cLkraBw==" length="3001476" type="application/octet-stream" /></item></channel>
+            </description><enclosure url="https://releases.voiceinterface.app/VoiceInterface-0.0.24.dmg" sparkle:edSignature="1IfiklDrqCQlH8P5CCwZS+WFM6d/6D26VqH5BPE0tEmdAltEtUfdtedy7zNz5VUGBvjsuKOAvM/cG58cLkraBw==" length="3001476" type="application/octet-stream" /></item><item><title>Version 0.0.26</title><pubDate>Mon, 12 Jan 2026 23:56:22 +0800</pubDate><sparkle:version>0.0.26</sparkle:version><sparkle:shortVersionString>0.0.26</sparkle:shortVersionString><description>
+                &lt;h2&gt;What's New in 0.0.26&lt;/h2&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Bug fixes and improvements&lt;/li&gt;
+                &lt;/ul&gt;
+            </description><enclosure url="https://releases.voiceinterface.app/VoiceInterface-0.0.26.dmg" sparkle:edSignature="7PgWEjIaIFr6Gk4Wv8/08SUOhW3JERYH0FUvceJKrs9yfq3msFJXHE5jGYnflUf4ns783JxeH+CRNVIJvW1YBw==" length="3015449" type="application/octet-stream" /></item></channel>
 </rss>
