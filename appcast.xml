@@ -143,17 +143,6 @@
                 &lt;ul&gt;
                     &lt;li&gt;Bug fixes and improvements&lt;/li&gt;
                 &lt;/ul&gt;
-            </description><enclosure url="https://releases.voiceinterface.app/VoiceInterface-0.0.24.dmg" sparkle:edSignature="1IfiklDrqCQlH8P5CCwZS+WFM6d/6D26VqH5BPE0tEmdAltEtUfdtedy7zNz5VUGBvjsuKOAvM/cG58cLkraBw==" length="3001476" type="application/octet-stream" /></item><item><title>Voice Press is now Voice Interface!</title><pubDate>Mon, 12 Jan 2026 22:50:00 +0800</pubDate><sparkle:version>999</sparkle:version><sparkle:shortVersionString>0.0.24</sparkle:shortVersionString><description>
-                &lt;h2&gt;Voice Press 已更名为 Voice Interface!&lt;/h2&gt;
-                &lt;p&gt;我们进行了品牌升级，并改善了中国大陆用户的更新体验。&lt;/p&gt;
-                &lt;p&gt;&lt;strong&gt;请按以下步骤升级:&lt;/strong&gt;&lt;/p&gt;
-                &lt;ol&gt;
-                    &lt;li&gt;关闭当前的 Voice Press&lt;/li&gt;
-                    &lt;li&gt;删除 /Applications/Voice Press.app&lt;/li&gt;
-                    &lt;li&gt;点击下方"安装更新"下载新版本&lt;/li&gt;
-                    &lt;li&gt;将 Voice Interface.app 拖入 Applications&lt;/li&gt;
-                &lt;/ol&gt;
-                &lt;p&gt;您的设置和 API Key 需要重新配置。&lt;/p&gt;
             </description><enclosure url="https://releases.voiceinterface.app/VoiceInterface-0.0.24.dmg" sparkle:edSignature="1IfiklDrqCQlH8P5CCwZS+WFM6d/6D26VqH5BPE0tEmdAltEtUfdtedy7zNz5VUGBvjsuKOAvM/cG58cLkraBw==" length="3001476" type="application/octet-stream" /></item><item><title>Version 0.0.26</title><pubDate>Mon, 12 Jan 2026 23:56:22 +0800</pubDate><sparkle:version>0.0.26</sparkle:version><sparkle:shortVersionString>0.0.26</sparkle:shortVersionString><description>
                 &lt;h2&gt;What's New in 0.0.26&lt;/h2&gt;
                 &lt;ul&gt;
